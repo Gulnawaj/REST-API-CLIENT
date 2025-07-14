@@ -18,3 +18,4 @@ I used HttpURLConnection and URI classes to send an HTTP GET request to the API.
 #mentor - NEELA SANTOSH
 
 OUTPUT
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/78e5e40d-afb6-4476-9a80-0bc7a91198df" />
